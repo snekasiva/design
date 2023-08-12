@@ -1,0 +1,13 @@
+.color{
+    display: flex;
+}
+.row-7{
+    text-transform: uppercase;
+}
+.vertical{
+    border-left: 1px dashed black;
+    height: 1100px;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+}
